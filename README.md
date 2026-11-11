@@ -7,7 +7,8 @@
 1. Oh my Zsh (Нужно ОБЯЗАТЕЛЬНО установить)
 2. Powerlevel10k тема
 3. Alias-ы на cd, ls и rgi
-4. Плагины git, sudo, zsh-autosuggestions, zsh-syntax-highlighting (Нужно ОБЯЗАТЕЛЬНО установить)
+4. fastfetch в начале
+5. Плагины git, sudo, zsh-autosuggestions, zsh-syntax-highlighting (Нужно ОБЯЗАТЕЛЬНО установить)
 
 ## Установка
 
