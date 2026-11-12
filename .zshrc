@@ -43,6 +43,10 @@ export FZF_ALT_C_COMMAND='fd --type d --hidden --exclude .git'
 
 source <(fzf --zsh)
 
+alias upg='yay -Syu'
+alias install='yay -S'
+alias unins='yay -Rns'
+alias search='yay -Ss'
 alias ..='cd ..'
 alias ...='cd ../..'
 alias cdi='zi'
